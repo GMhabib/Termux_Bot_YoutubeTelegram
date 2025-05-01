@@ -13,7 +13,7 @@ GMhabib
 lalu kamu copy ke termux kamu
 
 ```
-npm install node-telegram-bit-api
+npm install node-telegram-bot-api
 ```
 
 kemudian kamu melakukan
