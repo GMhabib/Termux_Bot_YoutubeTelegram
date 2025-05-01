@@ -25,5 +25,5 @@ npm install
 dan kemudian kamu jalankan
 
 ```
-node monyet js
+node monyet.js
 ```
