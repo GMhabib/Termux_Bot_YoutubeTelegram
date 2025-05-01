@@ -1,0 +1,2 @@
+#!/bin/bash
+cat /sdcard/web/bot/monyet.js > monyet.js

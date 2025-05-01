@@ -1,0 +1,17 @@
+#!/bin/bash
+git config --global user.email "game.master.habib@gmail.com"
+sleep 2
+git config --global user.name "GMhabib" 
+sleep 2
+git init
+sleep 2
+git config --global safe.directory /data/data/com.termux/files/home/bot_youtube/
+sleep 2
+ git add * 
+ sleep 2
+ git commit -m "jika sudah clone install pkg install nodejs" 
+ sleep 2
+ clear
+ echo "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"
+ sleep 10
+ git remote add origin https://github.com/GMhabib/Termux_Bot_YoutubeTelegram.git && git branch -M main && git push -u origin main
