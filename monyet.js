@@ -6,7 +6,7 @@ const path = require('path');
 // Ganti dengan token bot Telegram Anda.
 // Lebih aman menggunakan environment variable.
 // Di Termux/proot-distro, jalankan: export BOT_TOKEN='YOUR_BOT_TOKEN_HERE' sebelum menjalankan script
-const token = '8119205685:AAFqoqcxKLZ0v5MPr1mFIfz3g3HwEdMXzuI';
+const token = 'YOUR_BOT_TOKEN_HERE';
 
 // Pastikan BOT_TOKEN sudah diset
 if (!token) {
