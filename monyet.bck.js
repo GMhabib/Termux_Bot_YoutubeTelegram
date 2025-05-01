@@ -7,7 +7,7 @@ const { URL } = require('url'); // Untuk validasi URL dasar
 
 // --- Konfigurasi Bot ---
 // GANTI dengan token bot Anda
-const BOT_TOKEN = '8119205685:AAFqoqcxKLZ0v5MPr1mFIfz3g3HwEdMXzuI'; // <-- Pastikan ini token yang benar
+const BOT_TOKEN = 'YOUR_BOT_TOKEN_HERE'; // <-- Pastikan ini token yang benar
 const telek = new Telegraf(BOT_TOKEN);
 const YT_DLP_PATH = 'yt-dlp'; // Contoh: '/usr/local/bin/yt-dlp' atau 'yt-dlp.exe' di Windows
 const FFMPEG_PATH = 'ffmpeg'; // Contoh: '/usr/local/bin/ffmpeg' atau 'ffmpeg.exe' di Windows
