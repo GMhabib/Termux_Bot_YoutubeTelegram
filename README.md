@@ -1,3 +1,14 @@
+Saat Mau clone pakai script saya
+
+```
+git clone https://github.com/GMhabib/Termux_Bot_YoutubeTelegram.git
+```
+Kemudian isikan usernamenya dan Tokennya di bawah ini, jangan lupa kamu ke folder
+
+```
+cd Termux_Bot_YoutubeTelegram
+```
+
 pertama kamu isikan tokennya atau copy tokennya
 
 ```
